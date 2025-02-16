@@ -12,7 +12,7 @@ import type { Space } from "@shared/schema";
 export default function Home() {
   const [history, setHistory] = useState<Space[]>([]);
   const { filters, setFilters } = useSpaceFilters();
-  
+
   const { data: space, isLoading, refetch } = useQuery({
     queryKey: ["/api/spaces/random", filters],
     refetchOnWindowFocus: false
@@ -28,12 +28,15 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background">
       <div className="container px-4 py-8 mx-auto max-w-md">
-        <h1 className="text-4xl font-bold text-center mb-8 font-comic">
-          HuggingFace Space Explorer
+        <h1 className="text-4xl font-bold text-center mb-2">
+          Space Surfer 🏄
         </h1>
+        <p className="text-center text-muted-foreground mb-8">
+          Catch the coolest AI waves on HuggingFace
+        </p>
 
         <FilterAccordion filters={filters} onChange={setFilters} />
-        
+
         <div className="mt-8">
           {isLoading ? (
             <Skeleton className="h-[400px] w-full rounded-xl" />

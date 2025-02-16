@@ -1,7 +1,7 @@
 import type { Express } from "express";
 import { createServer } from "http";
 import { storage } from "./storage";
-import { spaceSchema, filterSchema } from "@shared/schema";
+import { spaceSchema, filterSchema, tagToCategory } from "@shared/schema";
 import { fetchSpaces } from "./api";
 import { z } from "zod";
 
@@ -25,6 +25,19 @@ export async function registerRoutes(app: Express) {
           await Promise.all(spaces.map(async (space) => {
             try {
               const [username, repo] = (space.id || "").split('/');
+
+              // Determine category based on tags
+              let category = 'other';
+              if (space.tags) {
+                for (const tag of space.tags) {
+                  const mappedCategory = tagToCategory.get(tag.toLowerCase());
+                  if (mappedCategory) {
+                    category = mappedCategory;
+                    break;
+                  }
+                }
+              }
+
               const validSpace = spaceSchema.parse({
                 spaceId: space.id,
                 title: space.title || repo || space.id,
@@ -32,6 +45,7 @@ export async function registerRoutes(app: Express) {
                 tags: Array.isArray(space.tags) ? space.tags : [],
                 sdkType: space.sdk || "unknown",
                 spaceType: space.cardData?.type || "application",
+                category,
                 thumbnail: space.cardData?.thumbnail || null,
                 likes: space.likes || 0,
                 metadata: space
