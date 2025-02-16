@@ -2,11 +2,6 @@ import { pgTable, text, serial, jsonb } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
-// Define likes object schema
-const likesSchema = z.object({
-  count: z.number().default(0),
-}).passthrough();
-
 export const spaces = pgTable("spaces", {
   id: serial("id").primaryKey(),
   spaceId: text("space_id").notNull().unique(),
@@ -20,14 +15,19 @@ export const spaces = pgTable("spaces", {
   metadata: jsonb("metadata").notNull()
 });
 
-// Include likes schema in space schema
+// Make schema more lenient for API responses
 export const spaceSchema = createInsertSchema(spaces).extend({
-  likes: likesSchema,
+  likes: z.union([
+    z.number().transform(count => ({ count })),
+    z.object({ count: z.number() }).passthrough()
+  ]),
+  tags: z.array(z.string()).default([]),
+  sdkType: z.string().default("unknown"),
+  spaceType: z.string().default("application"),
+  thumbnail: z.string().nullable().default(null),
 });
 
-export type Space = typeof spaces.$inferSelect & {
-  likes: z.infer<typeof likesSchema>;
-};
+export type Space = typeof spaces.$inferSelect;
 export type InsertSpace = z.infer<typeof spaceSchema>;
 
 export const filterSchema = z.object({
