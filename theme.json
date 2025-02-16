@@ -1,6 +1,6 @@
 {
   "variant": "tint",
   "primary": "#FFB3BA",
-  "appearance": "light",
+  "appearance": "system",
   "radius": 1.5
 }

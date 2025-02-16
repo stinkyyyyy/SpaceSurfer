@@ -2,33 +2,11 @@ import type { Express } from "express";
 import { createServer } from "http";
 import { storage } from "./storage";
 import { spaceSchema, filterSchema } from "@shared/schema";
+import { fetchSpaces } from "./api";
 import { z } from "zod";
 
-const HF_API_URL = "https://huggingface.co/api/spaces";
-
-// Define mock data for development
-const MOCK_SPACES = [
-  {
-    id: "stabilityai/stable-diffusion",
-    title: "Stable Diffusion Demo",
-    author: "stabilityai",
-    tags: ["text-to-image", "diffusion"],
-    sdk: "gradio",
-    type: "model",
-    thumbnail: "https://placehold.co/600x400",
-    likes: 1000,
-  },
-  {
-    id: "openai/whisper",
-    title: "Whisper Speech Recognition",
-    author: "openai",
-    tags: ["speech", "audio"],
-    sdk: "streamlit",
-    type: "model",
-    thumbnail: "https://placehold.co/600x400",
-    likes: 800,
-  }
-];
+const CACHE_TTL = 1000 * 60 * 15; // 15 minutes
+let lastFetch = 0;
 
 export async function registerRoutes(app: Express) {
   app.get("/api/spaces/random", async (req, res) => {
@@ -36,23 +14,15 @@ export async function registerRoutes(app: Express) {
       const filters = filterSchema.parse(req.query);
       const space = await storage.getRandomSpace(filters);
 
-      if (!space) {
-        let spaces;
+      // Check if we need to refresh cache
+      const shouldRefreshCache = Date.now() - lastFetch > CACHE_TTL;
 
+      if (!space || shouldRefreshCache) {
         try {
-          // Use mock data in development
-          if (process.env.NODE_ENV === "development") {
-            spaces = MOCK_SPACES;
-          } else {
-            const response = await fetch(`${HF_API_URL}?limit=100`);
-            if (!response.ok) {
-              throw new Error(`HF API returned ${response.status}`);
-            }
-            spaces = await response.json();
-          }
+          const spaces = await fetchSpaces();
 
           // Cache valid spaces
-          await Promise.all(spaces.map(async (space: any) => {
+          await Promise.all(spaces.map(async (space) => {
             try {
               const [username, repo] = (space.id || "").split('/');
               const validSpace = spaceSchema.parse({
@@ -61,8 +31,8 @@ export async function registerRoutes(app: Express) {
                 author: username || space.author || "unknown",
                 tags: Array.isArray(space.tags) ? space.tags : [],
                 sdkType: space.sdk || "unknown",
-                spaceType: space.type || "application",
-                thumbnail: space.thumbnail,
+                spaceType: space.cardData?.type || "application",
+                thumbnail: space.cardData?.thumbnail || null,
                 likes: space.likes || 0,
                 metadata: space
               });
@@ -73,15 +43,28 @@ export async function registerRoutes(app: Express) {
             }
           }));
 
-          const newSpace = await storage.getRandomSpace(filters);
-          if (!newSpace) {
-            res.status(404).json({ message: "No spaces found matching filters" });
-            return;
+          lastFetch = Date.now();
+
+          if (!space) {
+            // If we didn't have a space before, try to get one now
+            const newSpace = await storage.getRandomSpace(filters);
+            if (!newSpace) {
+              res.status(404).json({ message: "No spaces found matching filters" });
+              return;
+            }
+            res.json(newSpace);
+          } else {
+            // We had a space but refreshed cache, return original space
+            res.json(space);
           }
-          res.json(newSpace);
         } catch (err) {
           console.error('Failed to fetch spaces:', err);
-          res.status(502).json({ message: "Failed to fetch spaces from HuggingFace" });
+          if (space) {
+            // If we have a cached space, return it despite fetch error
+            res.json(space);
+          } else {
+            res.status(502).json({ message: "Failed to fetch spaces from HuggingFace" });
+          }
         }
       } else {
         res.json(space);
