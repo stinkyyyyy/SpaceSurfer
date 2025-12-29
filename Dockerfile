@@ -6,7 +6,8 @@ WORKDIR /app
 
 # Install app dependencies
 COPY package*.json ./
-RUN npm ci
+# Use npm install instead of npm ci to be more forgiving with lockfile sync issues
+RUN npm install
 
 # Bundle app source
 COPY . .
