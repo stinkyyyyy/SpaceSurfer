@@ -12,7 +12,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 3183
+      "count": 3187
     },
     "metadata": {
       "id": "Wan-AI/Wan2.2-Animate",
@@ -21,9 +21,9 @@
         "gradio",
         "region:us"
       ],
-      "likes": 3183,
+      "likes": 3187,
       "_id": "68cbaf3c59de8bd85a3aadfc",
-      "trendingScore": 380,
+      "trendingScore": 384,
       "private": false,
       "createdAt": "2025-09-18T07:05:32.000Z"
     },
@@ -42,7 +42,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 634
+      "count": 635
     },
     "metadata": {
       "id": "microsoft/TRELLIS.2",
@@ -51,9 +51,9 @@
         "gradio",
         "region:us"
       ],
-      "likes": 634,
+      "likes": 635,
       "_id": "6938ee0113a75af5dff40c18",
-      "trendingScore": 227,
+      "trendingScore": 228,
       "private": false,
       "createdAt": "2025-12-10T03:50:25.000Z"
     },
@@ -72,7 +72,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 326
+      "count": 327
     },
     "metadata": {
       "id": "Qwen/Qwen-Image-Layered",
@@ -81,9 +81,9 @@
         "gradio",
         "region:us"
       ],
-      "likes": 326,
+      "likes": 327,
       "_id": "6944e09dfef9e5fe0e5299c6",
-      "trendingScore": 171,
+      "trendingScore": 172,
       "private": false,
       "createdAt": "2025-12-19T05:20:29.000Z"
     },
@@ -102,7 +102,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 298
+      "count": 299
     },
     "metadata": {
       "id": "selfit-camera/Omni-Image-Editor",
@@ -111,9 +111,9 @@
         "gradio",
         "region:us"
       ],
-      "likes": 298,
+      "likes": 299,
       "_id": "693cd7b2ea6f9cc3dffbf126",
-      "trendingScore": 157,
+      "trendingScore": 158,
       "private": false,
       "createdAt": "2025-12-13T03:04:18.000Z"
     },
@@ -356,7 +356,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 62
+      "count": 63
     },
     "metadata": {
       "id": "Qwen/Qwen3-TTS-Voice-Design",
@@ -365,9 +365,9 @@
         "gradio",
         "region:us"
       ],
-      "likes": 62,
+      "likes": 63,
       "_id": "6944ed93fef9e5fe0e52ff01",
-      "trendingScore": 62,
+      "trendingScore": 63,
       "private": false,
       "createdAt": "2025-12-19T06:15:47.000Z"
     },
@@ -821,7 +821,7 @@
     "category": "other",
     "thumbnail": null,
     "likes": {
-      "count": 32
+      "count": 33
     },
     "metadata": {
       "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
@@ -831,9 +831,9 @@
         "mcp-server",
         "region:us"
       ],
-      "likes": 32,
+      "likes": 33,
       "_id": "6944e093a101e5713093032b",
-      "trendingScore": 29,
+      "trendingScore": 30,
       "private": false,
       "createdAt": "2025-12-19T05:20:19.000Z"
     },
