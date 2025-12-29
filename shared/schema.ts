@@ -1,5 +1,3 @@
-import { pgTable, text, serial, jsonb } from "drizzle-orm/pg-core";
-import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
 export const spaceCategories = {
@@ -15,19 +13,26 @@ export const spaceCategories = {
   'other': '🔮 Other'
 } as const;
 
-export const spaces = pgTable("spaces", {
-  id: serial("id").primaryKey(),
-  spaceId: text("space_id").notNull().unique(),
-  title: text("title").notNull(),
-  author: text("author").notNull(),
-  tags: text("tags").array().notNull(),
-  sdkType: text("sdk_type").notNull(),
-  spaceType: text("space_type").notNull(),
-  category: text("category").notNull(),
-  thumbnail: text("thumbnail"),
-  likes: jsonb("likes").notNull(),
-  metadata: jsonb("metadata").notNull()
+// Zod schema to replace Drizzle schema
+export const spaceSchema = z.object({
+  id: z.number().optional(), // In-memory/File ID
+  spaceId: z.string(),
+  title: z.string(),
+  author: z.string(),
+  tags: z.array(z.string()).default([]),
+  sdkType: z.string().default("unknown"),
+  spaceType: z.string().default("application"),
+  category: z.string().default("other"),
+  thumbnail: z.string().nullable().default(null),
+  likes: z.union([
+    z.number().transform(count => ({ count })),
+    z.object({ count: z.number() }).passthrough()
+  ]),
+  metadata: z.record(z.any())
 });
+
+export type Space = z.infer<typeof spaceSchema>;
+export type InsertSpace = z.infer<typeof spaceSchema>;
 
 // Common tags to categories mapping
 export const tagToCategory = new Map([
@@ -42,22 +47,6 @@ export const tagToCategory = new Map([
   ['audio', 'audio'],
   ['computer-vision', 'vision']
 ]);
-
-// Make schema more lenient for API responses
-export const spaceSchema = createInsertSchema(spaces).extend({
-  likes: z.union([
-    z.number().transform(count => ({ count })),
-    z.object({ count: z.number() }).passthrough()
-  ]),
-  tags: z.array(z.string()).default([]),
-  sdkType: z.string().default("unknown"),
-  spaceType: z.string().default("application"),
-  category: z.string().default("other"),
-  thumbnail: z.string().nullable().default(null),
-});
-
-export type Space = typeof spaces.$inferSelect;
-export type InsertSpace = z.infer<typeof spaceSchema>;
 
 export const filterSchema = z.object({
   sdkType: z.string().optional(),
