@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Heart, ExternalLink } from "lucide-react";
 import type { Space } from "@shared/schema";
+import { useEffect } from "react";
 
 interface SpaceCardProps {
   space: Space;
@@ -12,6 +13,12 @@ interface SpaceCardProps {
 
 export function SpaceCard({ space, onNext }: SpaceCardProps) {
   const controls = useAnimation();
+
+  useEffect(() => {
+    // Reset animation state when space changes
+    controls.set({ x: 0, opacity: 0, scale: 0.8, y: 50 });
+    controls.start({ x: 0, opacity: 1, scale: 1, y: 0 });
+  }, [space, controls]);
 
   const handleDragEnd = async (_: any, info: PanInfo) => {
     if (Math.abs(info.offset.x) > 100) {
@@ -29,73 +36,73 @@ export function SpaceCard({ space, onNext }: SpaceCardProps) {
       onDragEnd={handleDragEnd}
       animate={controls}
       whileTap={{ scale: 0.98 }}
-      initial={{ scale: 0.8, opacity: 0 }}
-      animate={{ scale: 1, opacity: 1 }}
+      exit={{ scale: 0.8, opacity: 0 }}
       transition={{ 
         type: "spring",
-        damping: 15,
-        stiffness: 200
+        damping: 20,
+        stiffness: 300
       }}
-      className="cursor-grab active:cursor-grabbing will-change-transform"
+      className="cursor-grab active:cursor-grabbing w-full max-w-md mx-auto"
     >
-      <Card className="overflow-hidden bg-gradient-to-br from-background to-secondary/10 border-2 hover:border-primary/50 transition-colors">
-        <CardContent className="p-6">
-          {space.thumbnail && (
-            <div className="relative aspect-video mb-6 rounded-lg overflow-hidden group">
+      <Card className="overflow-hidden glass-panel border-0 ring-1 ring-white/10 shadow-2xl">
+        <CardContent className="p-0">
+          <div className="relative aspect-video group">
+            {space.thumbnail ? (
               <img 
                 src={space.thumbnail} 
                 alt={space.title}
-                className="object-cover w-full h-full transform transition-transform group-hover:scale-105"
+                className="object-cover w-full h-full"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
+            ) : (
+              <div className="w-full h-full bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500" />
+            )}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
+
+            <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+              <h2 className="text-3xl font-bold mb-1 tracking-tight">{space.title}</h2>
+              <p className="text-gray-300 text-sm">by {space.author}</p>
             </div>
-          )}
-
-          <h2 className="text-2xl font-bold mb-2 font-comic">{space.title}</h2>
-          <p className="text-muted-foreground mb-4">by {space.author}</p>
-
-          <div className="flex flex-wrap gap-2 mb-6">
-            <Badge variant="secondary" className="animate-in fade-in-10 slide-in-from-bottom-1">
-              {space.sdkType}
-            </Badge>
-            <Badge variant="secondary" className="animate-in fade-in-20 slide-in-from-bottom-2">
-              {space.spaceType}
-            </Badge>
-            {space.tags.map((tag, i) => (
-              <Badge 
-                key={tag} 
-                variant="outline"
-                className={`animate-in fade-in-30 slide-in-from-bottom-${i + 3}`}
-              >
-                {tag}
-              </Badge>
-            ))}
           </div>
 
-          <div className="flex items-center justify-between">
-            <motion.div 
-              className="flex items-center gap-2"
-              whileHover={{ scale: 1.1 }}
-              whileTap={{ scale: 0.9 }}
-            >
-              <Heart className="h-5 w-5 text-red-500" />
-              <span>{space.likes.count}</span>
-            </motion.div>
-            <Button 
-              variant="outline" 
-              className="group"
-              asChild
-            >
-              <a 
-                href={`https://huggingface.co/spaces/${space.spaceId}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="transition-colors hover:text-primary"
+          <div className="p-6 space-y-6">
+            <div className="flex flex-wrap gap-2">
+              <Badge variant="secondary" className="bg-white/10 hover:bg-white/20 text-white border-0">
+                {space.sdkType}
+              </Badge>
+              <Badge variant="secondary" className="bg-white/10 hover:bg-white/20 text-white border-0">
+                {space.spaceType}
+              </Badge>
+              {space.tags.slice(0, 3).map((tag, i) => (
+                <Badge
+                  key={tag}
+                  variant="outline"
+                  className="border-white/20 text-gray-300"
+                >
+                  {tag}
+                </Badge>
+              ))}
+            </div>
+
+            <div className="flex items-center justify-between pt-4 border-t border-white/10">
+              <div className="flex items-center gap-2 text-pink-400">
+                <Heart className="h-5 w-5 fill-current" />
+                <span className="font-semibold">{space.likes.count}</span>
+              </div>
+              <Button
+                variant="default"
+                className="bg-white text-black hover:bg-gray-200 font-semibold"
+                asChild
               >
-                <ExternalLink className="h-4 w-4 mr-2 group-hover:rotate-45 transition-transform" />
-                Visit Space
-              </a>
-            </Button>
+                <a
+                  href={`https://huggingface.co/spaces/${space.spaceId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <ExternalLink className="h-4 w-4 mr-2" />
+                  Visit Space
+                </a>
+              </Button>
+            </div>
           </div>
         </CardContent>
       </Card>

@@ -1,0 +1,3144 @@
+[
+  {
+    "spaceId": "Wan-AI/Wan2.2-Animate",
+    "title": "Wan2.2-Animate",
+    "author": "Wan-AI",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3183
+    },
+    "metadata": {
+      "id": "Wan-AI/Wan2.2-Animate",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 3183,
+      "_id": "68cbaf3c59de8bd85a3aadfc",
+      "trendingScore": 380,
+      "private": false,
+      "createdAt": "2025-09-18T07:05:32.000Z"
+    },
+    "id": 1
+  },
+  {
+    "spaceId": "microsoft/TRELLIS.2",
+    "title": "TRELLIS.2",
+    "author": "microsoft",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 634
+    },
+    "metadata": {
+      "id": "microsoft/TRELLIS.2",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 634,
+      "_id": "6938ee0113a75af5dff40c18",
+      "trendingScore": 227,
+      "private": false,
+      "createdAt": "2025-12-10T03:50:25.000Z"
+    },
+    "id": 2
+  },
+  {
+    "spaceId": "Qwen/Qwen-Image-Layered",
+    "title": "Qwen-Image-Layered",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 326
+    },
+    "metadata": {
+      "id": "Qwen/Qwen-Image-Layered",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 326,
+      "_id": "6944e09dfef9e5fe0e5299c6",
+      "trendingScore": 171,
+      "private": false,
+      "createdAt": "2025-12-19T05:20:29.000Z"
+    },
+    "id": 3
+  },
+  {
+    "spaceId": "selfit-camera/Omni-Image-Editor",
+    "title": "Omni-Image-Editor",
+    "author": "selfit-camera",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 298
+    },
+    "metadata": {
+      "id": "selfit-camera/Omni-Image-Editor",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 298,
+      "_id": "693cd7b2ea6f9cc3dffbf126",
+      "trendingScore": 157,
+      "private": false,
+      "createdAt": "2025-12-13T03:04:18.000Z"
+    },
+    "id": 4
+  },
+  {
+    "spaceId": "Qwen/Qwen-Image-Edit-2511",
+    "title": "Qwen-Image-Edit-2511",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 151
+    },
+    "metadata": {
+      "id": "Qwen/Qwen-Image-Edit-2511",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 151,
+      "_id": "694a64649ff59b2b569259e1",
+      "trendingScore": 151,
+      "private": false,
+      "createdAt": "2025-12-23T09:44:04.000Z"
+    },
+    "id": 5
+  },
+  {
+    "spaceId": "mrfakename/Z-Image-Turbo",
+    "title": "Z-Image-Turbo",
+    "author": "mrfakename",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 876
+    },
+    "metadata": {
+      "id": "mrfakename/Z-Image-Turbo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 876,
+      "_id": "69275add76a71d94a449a4bb",
+      "trendingScore": 128,
+      "private": false,
+      "createdAt": "2025-11-26T19:54:05.000Z"
+    },
+    "id": 6
+  },
+  {
+    "spaceId": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+    "title": "wan2-2-fp8da-aoti-faster",
+    "author": "zerogpu-aoti",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2616
+    },
+    "metadata": {
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 2616,
+      "_id": "688a6c8083c4f2aa7bc1394b",
+      "trendingScore": 99,
+      "private": false,
+      "createdAt": "2025-07-30T19:03:28.000Z"
+    },
+    "id": 7
+  },
+  {
+    "spaceId": "linoyts/Qwen-Image-Edit-2511-Fast",
+    "title": "Qwen-Image-Edit-2511-Fast",
+    "author": "linoyts",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 99
+    },
+    "metadata": {
+      "id": "linoyts/Qwen-Image-Edit-2511-Fast",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 99,
+      "_id": "694aa14f39283644c5e8ce28",
+      "trendingScore": 99,
+      "private": false,
+      "createdAt": "2025-12-23T14:03:59.000Z"
+    },
+    "id": 8
+  },
+  {
+    "spaceId": "HuggingFaceTB/smol-training-playbook",
+    "title": "smol-training-playbook",
+    "author": "HuggingFaceTB",
+    "tags": [
+      "docker",
+      "research-article-template",
+      "research paper",
+      "scientific paper",
+      "data visualization",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2724
+    },
+    "metadata": {
+      "id": "HuggingFaceTB/smol-training-playbook",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "research-article-template",
+        "research paper",
+        "scientific paper",
+        "data visualization",
+        "region:us"
+      ],
+      "likes": 2724,
+      "_id": "68c4373eaf230bbae0bbf08c",
+      "trendingScore": 92,
+      "private": false,
+      "createdAt": "2025-09-12T15:07:42.000Z"
+    },
+    "id": 9
+  },
+  {
+    "spaceId": "Tongyi-MAI/Z-Image-Turbo",
+    "title": "Z-Image-Turbo",
+    "author": "Tongyi-MAI",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1531
+    },
+    "metadata": {
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 1531,
+      "_id": "6926cd5dfc3592a1619fd181",
+      "trendingScore": 67,
+      "private": false,
+      "createdAt": "2025-11-26T09:50:21.000Z"
+    },
+    "id": 10
+  },
+  {
+    "spaceId": "enzostvs/deepsite",
+    "title": "deepsite",
+    "author": "enzostvs",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 16186
+    },
+    "metadata": {
+      "id": "enzostvs/deepsite",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 16186,
+      "_id": "67e454cdd4f34388bcd19c38",
+      "trendingScore": 62,
+      "private": false,
+      "createdAt": "2025-03-26T19:26:05.000Z"
+    },
+    "id": 11
+  },
+  {
+    "spaceId": "Qwen/Qwen3-TTS-Voice-Design",
+    "title": "Qwen3-TTS-Voice-Design",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 62
+    },
+    "metadata": {
+      "id": "Qwen/Qwen3-TTS-Voice-Design",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 62,
+      "_id": "6944ed93fef9e5fe0e52ff01",
+      "trendingScore": 62,
+      "private": false,
+      "createdAt": "2025-12-19T06:15:47.000Z"
+    },
+    "id": 12
+  },
+  {
+    "spaceId": "ResembleAI/chatterbox-turbo-demo",
+    "title": "chatterbox-turbo-demo",
+    "author": "ResembleAI",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 394
+    },
+    "metadata": {
+      "id": "ResembleAI/chatterbox-turbo-demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 394,
+      "_id": "6932e59a2b818a1f0dfadf96",
+      "trendingScore": 61,
+      "private": false,
+      "createdAt": "2025-12-05T14:00:58.000Z"
+    },
+    "id": 13
+  },
+  {
+    "spaceId": "r3gm/wan2-2-fp8da-aoti-preview",
+    "title": "wan2-2-fp8da-aoti-preview",
+    "author": "r3gm",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 167
+    },
+    "metadata": {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 167,
+      "_id": "68fee50bebc127db791f6327",
+      "trendingScore": 55,
+      "private": false,
+      "createdAt": "2025-10-27T03:20:43.000Z"
+    },
+    "id": 14
+  },
+  {
+    "spaceId": "prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast",
+    "title": "Qwen-Image-Edit-2509-LoRAs-Fast",
+    "author": "prithivMLmods",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 539
+    },
+    "metadata": {
+      "id": "prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 539,
+      "_id": "69140df9095311866820aaba",
+      "trendingScore": 52,
+      "private": false,
+      "createdAt": "2025-11-12T04:32:57.000Z"
+    },
+    "id": 15
+  },
+  {
+    "spaceId": "ronedgecomb/ml-sharp",
+    "title": "ml-sharp",
+    "author": "ronedgecomb",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 68
+    },
+    "metadata": {
+      "id": "ronedgecomb/ml-sharp",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 68,
+      "_id": "693d8ec267557b5c106877a3",
+      "trendingScore": 42,
+      "private": false,
+      "createdAt": "2025-12-13T16:05:22.000Z"
+    },
+    "id": 16
+  },
+  {
+    "spaceId": "webml-community/FunctionGemma-Physics-Playground",
+    "title": "FunctionGemma-Physics-Playground",
+    "author": "webml-community",
+    "tags": [
+      "static",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 88
+    },
+    "metadata": {
+      "id": "webml-community/FunctionGemma-Physics-Playground",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "likes": 88,
+      "_id": "6943d9533fc97f015309036d",
+      "trendingScore": 42,
+      "private": false,
+      "createdAt": "2025-12-18T10:37:07.000Z"
+    },
+    "id": 17
+  },
+  {
+    "spaceId": "black-forest-labs/FLUX.2-dev",
+    "title": "FLUX.2-dev",
+    "author": "black-forest-labs",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 568
+    },
+    "metadata": {
+      "id": "black-forest-labs/FLUX.2-dev",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 568,
+      "_id": "691b29fbb9d00158e2519279",
+      "trendingScore": 41,
+      "private": false,
+      "createdAt": "2025-11-17T13:58:19.000Z"
+    },
+    "id": 18
+  },
+  {
+    "spaceId": "kr-cen/Qwen-Image-MICo",
+    "title": "Qwen-Image-MICo",
+    "author": "kr-cen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 47
+    },
+    "metadata": {
+      "id": "kr-cen/Qwen-Image-MICo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 47,
+      "_id": "693f971767557b5c1087a4c7",
+      "trendingScore": 41,
+      "private": false,
+      "createdAt": "2025-12-15T05:05:27.000Z"
+    },
+    "id": 19
+  },
+  {
+    "spaceId": "linoyts/Qwen-Image-Edit-Angles",
+    "title": "Qwen-Image-Edit-Angles",
+    "author": "linoyts",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1692
+    },
+    "metadata": {
+      "id": "linoyts/Qwen-Image-Edit-Angles",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 1692,
+      "_id": "690a05a217c5db6666a7e93c",
+      "trendingScore": 38,
+      "private": false,
+      "createdAt": "2025-11-04T13:54:42.000Z"
+    },
+    "id": 20
+  },
+  {
+    "spaceId": "AiSudo/Qwen-Image-to-LoRA",
+    "title": "Qwen-Image-to-LoRA",
+    "author": "AiSudo",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 304
+    },
+    "metadata": {
+      "id": "AiSudo/Qwen-Image-to-LoRA",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 304,
+      "_id": "6939724dcf27f17f614d3f36",
+      "trendingScore": 37,
+      "private": false,
+      "createdAt": "2025-12-10T13:14:53.000Z"
+    },
+    "id": 21
+  },
+  {
+    "spaceId": "r3gm/wan2-2-fp8da-aoti-preview2",
+    "title": "wan2-2-fp8da-aoti-preview2",
+    "author": "r3gm",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 108
+    },
+    "metadata": {
+      "id": "r3gm/wan2-2-fp8da-aoti-preview2",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 108,
+      "_id": "691cfe8a47d2d023df1d26d3",
+      "trendingScore": 34,
+      "private": false,
+      "createdAt": "2025-11-18T23:17:30.000Z"
+    },
+    "id": 22
+  },
+  {
+    "spaceId": "Heartsync/NSFW-Uncensored-video2",
+    "title": "NSFW-Uncensored-video2",
+    "author": "Heartsync",
+    "tags": [
+      "gradio",
+      "not-for-all-audiences",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 93
+    },
+    "metadata": {
+      "id": "Heartsync/NSFW-Uncensored-video2",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "not-for-all-audiences",
+        "region:us"
+      ],
+      "likes": 93,
+      "_id": "693638e24c2b480aafd5e512",
+      "trendingScore": 34,
+      "private": false,
+      "createdAt": "2025-12-08T02:33:06.000Z"
+    },
+    "id": 23
+  },
+  {
+    "spaceId": "ekwek/Soprano-TTS",
+    "title": "Soprano-TTS",
+    "author": "ekwek",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 33
+    },
+    "metadata": {
+      "id": "ekwek/Soprano-TTS",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 33,
+      "_id": "69491898193be49cea5378f2",
+      "trendingScore": 33,
+      "private": false,
+      "createdAt": "2025-12-22T10:08:24.000Z"
+    },
+    "id": 24
+  },
+  {
+    "spaceId": "malcolmrey/browser",
+    "title": "browser",
+    "author": "malcolmrey",
+    "tags": [
+      "static",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 120
+    },
+    "metadata": {
+      "id": "malcolmrey/browser",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "likes": 120,
+      "_id": "686af1a600f082270145318d",
+      "trendingScore": 30,
+      "private": false,
+      "createdAt": "2025-07-06T21:59:02.000Z"
+    },
+    "id": 25
+  },
+  {
+    "spaceId": "Qwen/Qwen-TTS-Clone-Demo",
+    "title": "Qwen-TTS-Clone-Demo",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 42
+    },
+    "metadata": {
+      "id": "Qwen/Qwen-TTS-Clone-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 42,
+      "_id": "6929aa4337afe697a9437c40",
+      "trendingScore": 29,
+      "private": false,
+      "createdAt": "2025-11-28T13:57:23.000Z"
+    },
+    "id": 26
+  },
+  {
+    "spaceId": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+    "title": "Qwen-Image-Edit-2511-LoRAs-Fast",
+    "author": "prithivMLmods",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 32
+    },
+    "metadata": {
+      "id": "prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 32,
+      "_id": "6944e093a101e5713093032b",
+      "trendingScore": 29,
+      "private": false,
+      "createdAt": "2025-12-19T05:20:19.000Z"
+    },
+    "id": 27
+  },
+  {
+    "spaceId": "cibey/octa-nsfw-face-swap",
+    "title": "octa-nsfw-face-swap",
+    "author": "cibey",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 284
+    },
+    "metadata": {
+      "id": "cibey/octa-nsfw-face-swap",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 284,
+      "_id": "6771bdc7279e85f924efbecb",
+      "trendingScore": 28,
+      "private": false,
+      "createdAt": "2024-12-29T21:23:19.000Z"
+    },
+    "id": 28
+  },
+  {
+    "spaceId": "facebook/map-anything",
+    "title": "map-anything",
+    "author": "facebook",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 95
+    },
+    "metadata": {
+      "id": "facebook/map-anything",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 95,
+      "_id": "68bee6af729c12597ef10ef0",
+      "trendingScore": 27,
+      "private": false,
+      "createdAt": "2025-09-08T14:22:39.000Z"
+    },
+    "id": 29
+  },
+  {
+    "spaceId": "fancyfeast/joy-caption-beta-one",
+    "title": "joy-caption-beta-one",
+    "author": "fancyfeast",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 832
+    },
+    "metadata": {
+      "id": "fancyfeast/joy-caption-beta-one",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 832,
+      "_id": "681ffd558430e030db0415c7",
+      "trendingScore": 26,
+      "private": false,
+      "createdAt": "2025-05-11T01:28:53.000Z"
+    },
+    "id": 30
+  },
+  {
+    "spaceId": "IndexTeam/IndexTTS-2-Demo",
+    "title": "IndexTTS-2-Demo",
+    "author": "IndexTeam",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 657
+    },
+    "metadata": {
+      "id": "IndexTeam/IndexTTS-2-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 657,
+      "_id": "685256524bb3e437e2a084c2",
+      "trendingScore": 25,
+      "private": false,
+      "createdAt": "2025-06-18T06:01:54.000Z"
+    },
+    "id": 31
+  },
+  {
+    "spaceId": "ResembleAI/Chatterbox-Multilingual-TTS",
+    "title": "Chatterbox-Multilingual-TTS",
+    "author": "ResembleAI",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 293
+    },
+    "metadata": {
+      "id": "ResembleAI/Chatterbox-Multilingual-TTS",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 293,
+      "_id": "68a5d34beefddf1484f171c3",
+      "trendingScore": 25,
+      "private": false,
+      "createdAt": "2025-08-20T13:53:15.000Z"
+    },
+    "id": 32
+  },
+  {
+    "spaceId": "AI-nthusiast/cognitive-proxy",
+    "title": "cognitive-proxy",
+    "author": "AI-nthusiast",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 69
+    },
+    "metadata": {
+      "id": "AI-nthusiast/cognitive-proxy",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 69,
+      "_id": "693c631a932ed03ff6bc4694",
+      "trendingScore": 24,
+      "private": false,
+      "createdAt": "2025-12-12T18:46:50.000Z"
+    },
+    "id": 33
+  },
+  {
+    "spaceId": "mteb/leaderboard",
+    "title": "leaderboard",
+    "author": "mteb",
+    "tags": [
+      "docker",
+      "leaderboard",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 6864
+    },
+    "metadata": {
+      "id": "mteb/leaderboard",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "leaderboard",
+        "region:us"
+      ],
+      "likes": 6864,
+      "_id": "633581939ac57cf2967be686",
+      "trendingScore": 23,
+      "private": false,
+      "createdAt": "2022-09-29T11:29:23.000Z"
+    },
+    "id": 34
+  },
+  {
+    "spaceId": "akhaliq/anycoder",
+    "title": "anycoder",
+    "author": "akhaliq",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3031
+    },
+    "metadata": {
+      "id": "akhaliq/anycoder",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 3031,
+      "_id": "6739412215bf70b248ab17be",
+      "trendingScore": 23,
+      "private": false,
+      "createdAt": "2024-11-17T01:04:34.000Z"
+    },
+    "id": 35
+  },
+  {
+    "spaceId": "Qwen/Qwen3-TTS-Demo",
+    "title": "Qwen3-TTS-Demo",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 309
+    },
+    "metadata": {
+      "id": "Qwen/Qwen3-TTS-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 309,
+      "_id": "68d13c919e8b5ab82724ffd8",
+      "trendingScore": 21,
+      "private": false,
+      "createdAt": "2025-09-22T12:09:53.000Z"
+    },
+    "id": 36
+  },
+  {
+    "spaceId": "hadadxyz/ai",
+    "title": "ai",
+    "author": "hadadxyz",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 53
+    },
+    "metadata": {
+      "id": "hadadxyz/ai",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 53,
+      "_id": "6930fffe66697c325f67dde9",
+      "trendingScore": 21,
+      "private": false,
+      "createdAt": "2025-12-04T03:29:02.000Z"
+    },
+    "id": 37
+  },
+  {
+    "spaceId": "nycu-cplab/Genfocus-Demo",
+    "title": "Genfocus-Demo",
+    "author": "nycu-cplab",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 35
+    },
+    "metadata": {
+      "id": "nycu-cplab/Genfocus-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 35,
+      "_id": "693fabb104c1c3de3fa04986",
+      "trendingScore": 20,
+      "private": false,
+      "createdAt": "2025-12-15T06:33:21.000Z"
+    },
+    "id": 38
+  },
+  {
+    "spaceId": "lang-uk/ukrainian-llm-leaderboard",
+    "title": "ukrainian-llm-leaderboard",
+    "author": "lang-uk",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 20
+    },
+    "metadata": {
+      "id": "lang-uk/ukrainian-llm-leaderboard",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 20,
+      "_id": "694961a0a3ca2630152809b1",
+      "trendingScore": 20,
+      "private": false,
+      "createdAt": "2025-12-22T15:20:00.000Z"
+    },
+    "id": 39
+  },
+  {
+    "spaceId": "hexgrad/Kokoro-TTS",
+    "title": "Kokoro-TTS",
+    "author": "hexgrad",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3099
+    },
+    "metadata": {
+      "id": "hexgrad/Kokoro-TTS",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 3099,
+      "_id": "6725e399d14c9ff92d5b0531",
+      "trendingScore": 19,
+      "private": false,
+      "createdAt": "2024-11-02T08:32:25.000Z"
+    },
+    "id": 40
+  },
+  {
+    "spaceId": "ResembleAI/Chatterbox",
+    "title": "Chatterbox",
+    "author": "ResembleAI",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1657
+    },
+    "metadata": {
+      "id": "ResembleAI/Chatterbox",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 1657,
+      "_id": "683589ba71c57c48d7398573",
+      "trendingScore": 19,
+      "private": false,
+      "createdAt": "2025-05-27T09:45:30.000Z"
+    },
+    "id": 41
+  },
+  {
+    "spaceId": "tencent/Hunyuan3D-2.1",
+    "title": "Hunyuan3D-2.1",
+    "author": "tencent",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1864
+    },
+    "metadata": {
+      "id": "tencent/Hunyuan3D-2.1",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 1864,
+      "_id": "684fd104752ada8d92f8aefc",
+      "trendingScore": 19,
+      "private": false,
+      "createdAt": "2025-06-16T08:08:36.000Z"
+    },
+    "id": 42
+  },
+  {
+    "spaceId": "open-llm-leaderboard/open_llm_leaderboard",
+    "title": "open_llm_leaderboard",
+    "author": "open-llm-leaderboard",
+    "tags": [
+      "docker",
+      "leaderboard",
+      "modality:text",
+      "submission:automatic",
+      "test:public",
+      "language:english",
+      "eval:code",
+      "eval:math",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 13756
+    },
+    "metadata": {
+      "id": "open-llm-leaderboard/open_llm_leaderboard",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "leaderboard",
+        "modality:text",
+        "submission:automatic",
+        "test:public",
+        "language:english",
+        "eval:code",
+        "eval:math",
+        "region:us"
+      ],
+      "likes": 13756,
+      "_id": "643d3016d2c1e08a5eca0c22",
+      "trendingScore": 18,
+      "private": false,
+      "createdAt": "2023-04-17T11:40:06.000Z"
+    },
+    "id": 43
+  },
+  {
+    "spaceId": "yingzhac/Z_image_NSFW",
+    "title": "Z_image_NSFW",
+    "author": "yingzhac",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 65
+    },
+    "metadata": {
+      "id": "yingzhac/Z_image_NSFW",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 65,
+      "_id": "692fbf918f4cfeca4c3707cc",
+      "trendingScore": 18,
+      "private": false,
+      "createdAt": "2025-12-03T04:41:53.000Z"
+    },
+    "id": 44
+  },
+  {
+    "spaceId": "jbilcke-hf/ai-comic-factory",
+    "title": "ai-comic-factory",
+    "author": "jbilcke-hf",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 10872
+    },
+    "metadata": {
+      "id": "jbilcke-hf/ai-comic-factory",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 10872,
+      "_id": "64e8bed7c5c7caadab0781ed",
+      "trendingScore": 17,
+      "private": false,
+      "createdAt": "2023-08-25T14:46:47.000Z"
+    },
+    "id": 45
+  },
+  {
+    "spaceId": "Heartsync/FREE-NSFW-HUB",
+    "title": "FREE-NSFW-HUB",
+    "author": "Heartsync",
+    "tags": [
+      "gradio",
+      "not-for-all-audiences",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 440
+    },
+    "metadata": {
+      "id": "Heartsync/FREE-NSFW-HUB",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "not-for-all-audiences",
+        "region:us"
+      ],
+      "likes": 440,
+      "_id": "684625db49ef31c5a2b493f3",
+      "trendingScore": 17,
+      "private": false,
+      "createdAt": "2025-06-09T00:07:55.000Z"
+    },
+    "id": 46
+  },
+  {
+    "spaceId": "Qwen/Qwen-Image-Edit",
+    "title": "Qwen-Image-Edit",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 795
+    },
+    "metadata": {
+      "id": "Qwen/Qwen-Image-Edit",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 795,
+      "_id": "68a1dd6b3bc30bba2a957c99",
+      "trendingScore": 17,
+      "private": false,
+      "createdAt": "2025-08-17T13:47:23.000Z"
+    },
+    "id": 47
+  },
+  {
+    "spaceId": "GiorgioV/test-wan-2-2-first-last-frame",
+    "title": "test-wan-2-2-first-last-frame",
+    "author": "GiorgioV",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 46
+    },
+    "metadata": {
+      "id": "GiorgioV/test-wan-2-2-first-last-frame",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 46,
+      "_id": "692d6f2ecf9e36755b72f2c0",
+      "trendingScore": 17,
+      "private": false,
+      "createdAt": "2025-12-01T10:34:22.000Z"
+    },
+    "id": 48
+  },
+  {
+    "spaceId": "prithivMLmods/Molmo2-HF-Demo",
+    "title": "Molmo2-HF-Demo",
+    "author": "prithivMLmods",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 20
+    },
+    "metadata": {
+      "id": "prithivMLmods/Molmo2-HF-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 20,
+      "_id": "6942426782b26abd10dfc4eb",
+      "trendingScore": 17,
+      "private": false,
+      "createdAt": "2025-12-17T05:40:55.000Z"
+    },
+    "id": 49
+  },
+  {
+    "spaceId": "huggingface/ai-deadlines",
+    "title": "ai-deadlines",
+    "author": "huggingface",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 584
+    },
+    "metadata": {
+      "id": "huggingface/ai-deadlines",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 584,
+      "_id": "67bb89ce9401b73667f3ec7a",
+      "trendingScore": 16,
+      "private": false,
+      "createdAt": "2025-02-23T20:49:18.000Z"
+    },
+    "id": 50
+  },
+  {
+    "spaceId": "Justforailolomg/NSFW-Uncensored-video-duplicate",
+    "title": "NSFW-Uncensored-video-duplicate",
+    "author": "Justforailolomg",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 32
+    },
+    "metadata": {
+      "id": "Justforailolomg/NSFW-Uncensored-video-duplicate",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 32,
+      "_id": "682b59166de531057a8e6af1",
+      "trendingScore": 16,
+      "private": false,
+      "createdAt": "2025-05-19T16:15:18.000Z"
+    },
+    "id": 51
+  },
+  {
+    "spaceId": "tencent/SongGeneration",
+    "title": "SongGeneration",
+    "author": "tencent",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 560
+    },
+    "metadata": {
+      "id": "tencent/SongGeneration",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 560,
+      "_id": "6842ab534e2d97661deadbfa",
+      "trendingScore": 16,
+      "private": false,
+      "createdAt": "2025-06-06T08:48:19.000Z"
+    },
+    "id": 52
+  },
+  {
+    "spaceId": "linoyts/wan2-2-i2v-rCM",
+    "title": "wan2-2-i2v-rCM",
+    "author": "linoyts",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 79
+    },
+    "metadata": {
+      "id": "linoyts/wan2-2-i2v-rCM",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 79,
+      "_id": "693acb26ad87ee0cd17e0f34",
+      "trendingScore": 16,
+      "private": false,
+      "createdAt": "2025-12-11T13:46:14.000Z"
+    },
+    "id": 53
+  },
+  {
+    "spaceId": "mrfakename/E2-F5-TTS",
+    "title": "E2-F5-TTS",
+    "author": "mrfakename",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2747
+    },
+    "metadata": {
+      "id": "mrfakename/E2-F5-TTS",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 2747,
+      "_id": "65eb529f0c9227e9678f62a1",
+      "trendingScore": 15,
+      "private": false,
+      "createdAt": "2024-03-08T18:02:07.000Z"
+    },
+    "id": 54
+  },
+  {
+    "spaceId": "openai/whisper",
+    "title": "whisper",
+    "author": "openai",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2648
+    },
+    "metadata": {
+      "id": "openai/whisper",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 2648,
+      "_id": "632b47e7ffe3618eff2d41a8",
+      "trendingScore": 14,
+      "private": false,
+      "createdAt": "2022-09-21T17:20:39.000Z"
+    },
+    "id": 55
+  },
+  {
+    "spaceId": "pollen-robotics/Reachy_Mini",
+    "title": "Reachy_Mini",
+    "author": "pollen-robotics",
+    "tags": [
+      "docker",
+      "reachy_mini",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 47
+    },
+    "metadata": {
+      "id": "pollen-robotics/Reachy_Mini",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "reachy_mini",
+        "region:us"
+      ],
+      "likes": 47,
+      "_id": "693c0d4b79110a1d328270b2",
+      "trendingScore": 14,
+      "private": false,
+      "createdAt": "2025-12-12T12:40:43.000Z"
+    },
+    "id": 56
+  },
+  {
+    "spaceId": "nanotron/ultrascale-playbook",
+    "title": "ultrascale-playbook",
+    "author": "nanotron",
+    "tags": [
+      "static",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3602
+    },
+    "metadata": {
+      "id": "nanotron/ultrascale-playbook",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "likes": 3602,
+      "_id": "6671bffcf022d14aa10e6c65",
+      "trendingScore": 13,
+      "private": false,
+      "createdAt": "2024-06-18T17:12:28.000Z"
+    },
+    "id": 57
+  },
+  {
+    "spaceId": "Kwai-Kolors/Kolors-Virtual-Try-On",
+    "title": "Kolors-Virtual-Try-On",
+    "author": "Kwai-Kolors",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 9937
+    },
+    "metadata": {
+      "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 9937,
+      "_id": "66b3419ab2efe573257e5fdc",
+      "trendingScore": 13,
+      "private": false,
+      "createdAt": "2024-08-07T09:42:50.000Z"
+    },
+    "id": 58
+  },
+  {
+    "spaceId": "merterbak/DeepSeek-OCR-Demo",
+    "title": "DeepSeek-OCR-Demo",
+    "author": "merterbak",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 312
+    },
+    "metadata": {
+      "id": "merterbak/DeepSeek-OCR-Demo",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 312,
+      "_id": "68f6c982e9bf10e91ca92094",
+      "trendingScore": 13,
+      "private": false,
+      "createdAt": "2025-10-20T23:45:06.000Z"
+    },
+    "id": 59
+  },
+  {
+    "spaceId": "sora-2/sora-2-free",
+    "title": "sora-2-free",
+    "author": "sora-2",
+    "tags": [
+      "static",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 23
+    },
+    "metadata": {
+      "id": "sora-2/sora-2-free",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "likes": 23,
+      "_id": "691febaf8bac0dd8059e93d8",
+      "trendingScore": 13,
+      "private": false,
+      "createdAt": "2025-11-21T04:33:51.000Z"
+    },
+    "id": 60
+  },
+  {
+    "spaceId": "DontPlanToEnd/UGI-Leaderboard",
+    "title": "UGI-Leaderboard",
+    "author": "DontPlanToEnd",
+    "tags": [
+      "docker",
+      "leaderboard",
+      "submission:manual",
+      "test:private",
+      "modality:text",
+      "eval:generation",
+      "eval:safety",
+      "eval:math",
+      "language:English",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1352
+    },
+    "metadata": {
+      "id": "DontPlanToEnd/UGI-Leaderboard",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "leaderboard",
+        "submission:manual",
+        "test:private",
+        "modality:text",
+        "eval:generation",
+        "eval:safety",
+        "eval:math",
+        "language:English",
+        "region:us"
+      ],
+      "likes": 1352,
+      "_id": "65f0f612555caedb299e54d9",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2024-03-13T00:40:50.000Z"
+    },
+    "id": 61
+  },
+  {
+    "spaceId": "tencent/Hunyuan3D-2",
+    "title": "Hunyuan3D-2",
+    "author": "tencent",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3136
+    },
+    "metadata": {
+      "id": "tencent/Hunyuan3D-2",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 3136,
+      "_id": "678df43fef7630e73c445eea",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-01-20T06:59:11.000Z"
+    },
+    "id": 62
+  },
+  {
+    "spaceId": "opparco/waiNSFWIllustrious_v120",
+    "title": "waiNSFWIllustrious_v120",
+    "author": "opparco",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 279
+    },
+    "metadata": {
+      "id": "opparco/waiNSFWIllustrious_v120",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 279,
+      "_id": "682c48892605aeeb00dfb782",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-05-20T09:16:57.000Z"
+    },
+    "id": 63
+  },
+  {
+    "spaceId": "ALSv/FaceSwapAll",
+    "title": "FaceSwapAll",
+    "author": "ALSv",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 12
+    },
+    "metadata": {
+      "id": "ALSv/FaceSwapAll",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 12,
+      "_id": "68965bd2295cf0cbe501a585",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-08-08T20:19:30.000Z"
+    },
+    "id": 64
+  },
+  {
+    "spaceId": "multimodalart/nano-banana",
+    "title": "nano-banana",
+    "author": "multimodalart",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 418
+    },
+    "metadata": {
+      "id": "multimodalart/nano-banana",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 418,
+      "_id": "68adde66af245e5fd6720826",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-08-26T16:18:46.000Z"
+    },
+    "id": 65
+  },
+  {
+    "spaceId": "dream2589632147/Dream-wan2-2-faster-Pro",
+    "title": "Dream-wan2-2-faster-Pro",
+    "author": "dream2589632147",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1011
+    },
+    "metadata": {
+      "id": "dream2589632147/Dream-wan2-2-faster-Pro",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 1011,
+      "_id": "68fd1f7fd401adcf5e3499e6",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-10-25T19:05:35.000Z"
+    },
+    "id": 66
+  },
+  {
+    "spaceId": "liuhahi/wan2-2-fp8da-aoti-preview",
+    "title": "wan2-2-fp8da-aoti-preview",
+    "author": "liuhahi",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 13
+    },
+    "metadata": {
+      "id": "liuhahi/wan2-2-fp8da-aoti-preview",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 13,
+      "_id": "693ecfcadd3510009215cb58",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-12-14T14:55:06.000Z"
+    },
+    "id": 67
+  },
+  {
+    "spaceId": "linoyts/Z-Image-Turbo-Realism",
+    "title": "Z-Image-Turbo-Realism",
+    "author": "linoyts",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 12
+    },
+    "metadata": {
+      "id": "linoyts/Z-Image-Turbo-Realism",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 12,
+      "_id": "694c15da3ad00cd8a1bddcc9",
+      "trendingScore": 12,
+      "private": false,
+      "createdAt": "2025-12-24T16:33:30.000Z"
+    },
+    "id": 68
+  },
+  {
+    "spaceId": "lerobot/visualize_dataset",
+    "title": "visualize_dataset",
+    "author": "lerobot",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 305
+    },
+    "metadata": {
+      "id": "lerobot/visualize_dataset",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 305,
+      "_id": "66979d567ed28ecb12256d2e",
+      "trendingScore": 11,
+      "private": false,
+      "createdAt": "2024-07-17T10:30:46.000Z"
+    },
+    "id": 69
+  },
+  {
+    "spaceId": "black-forest-labs/FLUX.1-dev",
+    "title": "FLUX.1-dev",
+    "author": "black-forest-labs",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 9344
+    },
+    "metadata": {
+      "id": "black-forest-labs/FLUX.1-dev",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 9344,
+      "_id": "66ab982ab4916d3e83935a9c",
+      "trendingScore": 11,
+      "private": false,
+      "createdAt": "2024-08-01T14:14:02.000Z"
+    },
+    "id": 70
+  },
+  {
+    "spaceId": "fancyfeast/joy-caption-alpha-two",
+    "title": "joy-caption-alpha-two",
+    "author": "fancyfeast",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1591
+    },
+    "metadata": {
+      "id": "fancyfeast/joy-caption-alpha-two",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 1591,
+      "_id": "66f5f824824e008010ddcd84",
+      "trendingScore": 11,
+      "private": false,
+      "createdAt": "2024-09-27T00:11:16.000Z"
+    },
+    "id": 71
+  },
+  {
+    "spaceId": "lerobot/robot-learning-tutorial",
+    "title": "robot-learning-tutorial",
+    "author": "lerobot",
+    "tags": [
+      "docker",
+      "research-article-template",
+      "research paper",
+      "scientific paper",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 285
+    },
+    "metadata": {
+      "id": "lerobot/robot-learning-tutorial",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "research-article-template",
+        "research paper",
+        "scientific paper",
+        "region:us"
+      ],
+      "likes": 285,
+      "_id": "68caacdd9c0f4dc1056488a7",
+      "trendingScore": 11,
+      "private": false,
+      "createdAt": "2025-09-17T12:43:09.000Z"
+    },
+    "id": 72
+  },
+  {
+    "spaceId": "ibm-research/cuga-agent",
+    "title": "cuga-agent",
+    "author": "ibm-research",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 86
+    },
+    "metadata": {
+      "id": "ibm-research/cuga-agent",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 86,
+      "_id": "69370d54eabb8bf6bfac6728",
+      "trendingScore": 11,
+      "private": false,
+      "createdAt": "2025-12-08T17:39:32.000Z"
+    },
+    "id": 73
+  },
+  {
+    "spaceId": "innoai/Edge-TTS-Text-to-Speech",
+    "title": "Edge-TTS-Text-to-Speech",
+    "author": "innoai",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 997
+    },
+    "metadata": {
+      "id": "innoai/Edge-TTS-Text-to-Speech",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 997,
+      "_id": "6679aea3db8f4aace1a4a943",
+      "trendingScore": 10,
+      "private": false,
+      "createdAt": "2024-06-24T17:36:35.000Z"
+    },
+    "id": 74
+  },
+  {
+    "spaceId": "KlingTeam/LivePortrait",
+    "title": "LivePortrait",
+    "author": "KlingTeam",
+    "tags": [
+      "gradio",
+      "Multimodal",
+      "Motion control",
+      "Image-to-Video",
+      "Video-to-Video",
+      "language models",
+      "LLMs",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 3671
+    },
+    "metadata": {
+      "id": "KlingTeam/LivePortrait",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "Multimodal",
+        "Motion control",
+        "Image-to-Video",
+        "Video-to-Video",
+        "language models",
+        "LLMs",
+        "region:us"
+      ],
+      "likes": 3671,
+      "_id": "668820cc361cc52d3e219a24",
+      "trendingScore": 10,
+      "private": false,
+      "createdAt": "2024-07-05T16:35:24.000Z"
+    },
+    "id": 75
+  },
+  {
+    "spaceId": "finegrain/finegrain-image-enhancer",
+    "title": "finegrain-image-enhancer",
+    "author": "finegrain",
+    "tags": [
+      "gradio",
+      "enhancer",
+      "upscaler",
+      "clarity",
+      "refiners",
+      "image-to-image",
+      "stable-diffusion",
+      "juggernaut",
+      "sd1.5",
+      "art",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "image-generation",
+    "thumbnail": null,
+    "likes": {
+      "count": 1943
+    },
+    "metadata": {
+      "id": "finegrain/finegrain-image-enhancer",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "enhancer",
+        "upscaler",
+        "clarity",
+        "refiners",
+        "image-to-image",
+        "stable-diffusion",
+        "juggernaut",
+        "sd1.5",
+        "art",
+        "region:us"
+      ],
+      "likes": 1943,
+      "_id": "668ec58c2c2abc7f6a76e397",
+      "trendingScore": 10,
+      "private": false,
+      "createdAt": "2024-07-10T17:31:56.000Z"
+    },
+    "id": 76
+  },
+  {
+    "spaceId": "pollen-robotics/reachy_mini_conversation_app",
+    "title": "reachy_mini_conversation_app",
+    "author": "pollen-robotics",
+    "tags": [
+      "static",
+      "reachy_mini",
+      "reachy_mini_python_app",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 31
+    },
+    "metadata": {
+      "id": "pollen-robotics/reachy_mini_conversation_app",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "reachy_mini",
+        "reachy_mini_python_app",
+        "region:us"
+      ],
+      "likes": 31,
+      "_id": "68f11821ccbf0a0c900e7b39",
+      "trendingScore": 10,
+      "private": false,
+      "createdAt": "2025-10-16T16:06:57.000Z"
+    },
+    "id": 77
+  },
+  {
+    "spaceId": "tori29umai/Qwen-Image-2509-MultipleAngles",
+    "title": "Qwen-Image-2509-MultipleAngles",
+    "author": "tori29umai",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 590
+    },
+    "metadata": {
+      "id": "tori29umai/Qwen-Image-2509-MultipleAngles",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 590,
+      "_id": "690561a46f0884de5ccf9c3e",
+      "trendingScore": 10,
+      "private": false,
+      "createdAt": "2025-11-01T01:25:56.000Z"
+    },
+    "id": 78
+  },
+  {
+    "spaceId": "Sanster/Lama-Cleaner-lama",
+    "title": "Lama-Cleaner-lama",
+    "author": "Sanster",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 930
+    },
+    "metadata": {
+      "id": "Sanster/Lama-Cleaner-lama",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 930,
+      "_id": "63749d3a19c264fe6fb1b090",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2022-11-16T08:20:10.000Z"
+    },
+    "id": 79
+  },
+  {
+    "spaceId": "lmarena-ai/lmarena-leaderboard",
+    "title": "lmarena-leaderboard",
+    "author": "lmarena-ai",
+    "tags": [
+      "static",
+      "leaderboard",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 4704
+    },
+    "metadata": {
+      "id": "lmarena-ai/lmarena-leaderboard",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "leaderboard",
+        "region:us"
+      ],
+      "likes": 4704,
+      "_id": "6468923b99182de17844bf7b",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2023-05-20T09:26:19.000Z"
+    },
+    "id": 80
+  },
+  {
+    "spaceId": "tonyassi/face-swap",
+    "title": "face-swap",
+    "author": "tonyassi",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 663
+    },
+    "metadata": {
+      "id": "tonyassi/face-swap",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 663,
+      "_id": "64f16cf8fb4d28d9a4e20678",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2023-09-01T04:47:52.000Z"
+    },
+    "id": 81
+  },
+  {
+    "spaceId": "ggml-org/gguf-my-repo",
+    "title": "gguf-my-repo",
+    "author": "ggml-org",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1785
+    },
+    "metadata": {
+      "id": "ggml-org/gguf-my-repo",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 1785,
+      "_id": "660302a1803114181a64eb16",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2024-03-26T17:15:13.000Z"
+    },
+    "id": 82
+  },
+  {
+    "spaceId": "HuggingFaceFW/blogpost-fineweb-v1",
+    "title": "blogpost-fineweb-v1",
+    "author": "HuggingFaceFW",
+    "tags": [
+      "static",
+      "region:us"
+    ],
+    "sdkType": "static",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1239
+    },
+    "metadata": {
+      "id": "HuggingFaceFW/blogpost-fineweb-v1",
+      "sdk": "static",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "likes": 1239,
+      "_id": "664f70493fc8c9f05da4f4df",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2024-05-23T16:35:21.000Z"
+    },
+    "id": 83
+  },
+  {
+    "spaceId": "Heartsync/NSFW-image",
+    "title": "NSFW-image",
+    "author": "Heartsync",
+    "tags": [
+      "gradio",
+      "not-for-all-audiences",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 286
+    },
+    "metadata": {
+      "id": "Heartsync/NSFW-image",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "not-for-all-audiences",
+        "region:us"
+      ],
+      "likes": 286,
+      "_id": "68145b75c65cb122e44cf2cd",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-05-02T05:43:17.000Z"
+    },
+    "id": 84
+  },
+  {
+    "spaceId": "trellis-community/TRELLIS",
+    "title": "TRELLIS",
+    "author": "trellis-community",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 451
+    },
+    "metadata": {
+      "id": "trellis-community/TRELLIS",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 451,
+      "_id": "684069c4f8ddaaabfb93b2f3",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-06-04T15:44:04.000Z"
+    },
+    "id": 85
+  },
+  {
+    "spaceId": "multimodalart/wan-2-2-first-last-frame",
+    "title": "wan-2-2-first-last-frame",
+    "author": "multimodalart",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 574
+    },
+    "metadata": {
+      "id": "multimodalart/wan-2-2-first-last-frame",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 574,
+      "_id": "68b3c6f27bbd157c199b6e6e",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-08-31T03:52:18.000Z"
+    },
+    "id": 86
+  },
+  {
+    "spaceId": "tori29umai/Qwen-Image-2509-CharacterSheet",
+    "title": "Qwen-Image-2509-CharacterSheet",
+    "author": "tori29umai",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 182
+    },
+    "metadata": {
+      "id": "tori29umai/Qwen-Image-2509-CharacterSheet",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 182,
+      "_id": "68f1ff35cc7b91c40f999b03",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-10-17T08:32:53.000Z"
+    },
+    "id": 87
+  },
+  {
+    "spaceId": "dlouapre/eiffel-tower-llama",
+    "title": "eiffel-tower-llama",
+    "author": "dlouapre",
+    "tags": [
+      "docker",
+      "research-article-template",
+      "research paper",
+      "scientific paper",
+      "data visualization",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 89
+    },
+    "metadata": {
+      "id": "dlouapre/eiffel-tower-llama",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "research-article-template",
+        "research paper",
+        "scientific paper",
+        "data visualization",
+        "region:us"
+      ],
+      "likes": 89,
+      "_id": "69243630a5e59738625bb297",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-11-24T10:40:48.000Z"
+    },
+    "id": 88
+  },
+  {
+    "spaceId": "prithivMLmods/TRELLIS.2-Text-to-3D",
+    "title": "TRELLIS.2-Text-to-3D",
+    "author": "prithivMLmods",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 20
+    },
+    "metadata": {
+      "id": "prithivMLmods/TRELLIS.2-Text-to-3D",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 20,
+      "_id": "6942895400cea308ab995abe",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-12-17T10:43:32.000Z"
+    },
+    "id": 89
+  },
+  {
+    "spaceId": "gagndeep/Apple-Sharp-Image-to-3D-View-Synthesis",
+    "title": "Apple-Sharp-Image-to-3D-View-Synthesis",
+    "author": "gagndeep",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 15
+    },
+    "metadata": {
+      "id": "gagndeep/Apple-Sharp-Image-to-3D-View-Synthesis",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 15,
+      "_id": "6945c2cd5ce64422e5a812f2",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-12-19T21:25:33.000Z"
+    },
+    "id": 90
+  },
+  {
+    "spaceId": "lenML/Qwen-Image-Edit-2511-Fast",
+    "title": "Qwen-Image-Edit-2511-Fast",
+    "author": "lenML",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 9
+    },
+    "metadata": {
+      "id": "lenML/Qwen-Image-Edit-2511-Fast",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 9,
+      "_id": "694ad73d2674ad8453de7b26",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-12-23T17:54:05.000Z"
+    },
+    "id": 91
+  },
+  {
+    "spaceId": "linoyts/Qwen-Image-Edit-2511-AnyPose",
+    "title": "Qwen-Image-Edit-2511-AnyPose",
+    "author": "linoyts",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 9
+    },
+    "metadata": {
+      "id": "linoyts/Qwen-Image-Edit-2511-AnyPose",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 9,
+      "_id": "6950e7202674ad84531e758f",
+      "trendingScore": 9,
+      "private": false,
+      "createdAt": "2025-12-28T08:15:28.000Z"
+    },
+    "id": 92
+  },
+  {
+    "spaceId": "tonyassi/video-face-swap",
+    "title": "video-face-swap",
+    "author": "tonyassi",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1260
+    },
+    "metadata": {
+      "id": "tonyassi/video-face-swap",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 1260,
+      "_id": "653ea8a689b0d617297324e4",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2023-10-29T18:47:02.000Z"
+    },
+    "id": 93
+  },
+  {
+    "spaceId": "CohereLabs/c4ai-command",
+    "title": "c4ai-command",
+    "author": "CohereLabs",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 1465
+    },
+    "metadata": {
+      "id": "CohereLabs/c4ai-command",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 1465,
+      "_id": "660d2827bb0d6edc2fafe8d5",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2024-04-03T09:57:59.000Z"
+    },
+    "id": 94
+  },
+  {
+    "spaceId": "tonyassi/voice-clone",
+    "title": "voice-clone",
+    "author": "tonyassi",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2554
+    },
+    "metadata": {
+      "id": "tonyassi/voice-clone",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 2554,
+      "_id": "6616b752203bf9d7516b4244",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2024-04-10T15:59:14.000Z"
+    },
+    "id": 95
+  },
+  {
+    "spaceId": "not-lain/background-removal",
+    "title": "background-removal",
+    "author": "not-lain",
+    "tags": [
+      "gradio",
+      "mcp-server",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 2613
+    },
+    "metadata": {
+      "id": "not-lain/background-removal",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "likes": 2613,
+      "_id": "66b51e7dfc66a466e6f55391",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2024-08-08T19:37:33.000Z"
+    },
+    "id": 96
+  },
+  {
+    "spaceId": "baoyin2024/n8n-free",
+    "title": "n8n-free",
+    "author": "baoyin2024",
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "sdkType": "docker",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 216
+    },
+    "metadata": {
+      "id": "baoyin2024/n8n-free",
+      "sdk": "docker",
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "likes": 216,
+      "_id": "67eb992c4bb8432356030d76",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2025-04-01T07:43:40.000Z"
+    },
+    "id": 97
+  },
+  {
+    "spaceId": "Daniel9046/SoniTranslate",
+    "title": "SoniTranslate",
+    "author": "Daniel9046",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 35
+    },
+    "metadata": {
+      "id": "Daniel9046/SoniTranslate",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 35,
+      "_id": "67f029c14aef7a85c762c2c7",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2025-04-04T18:49:37.000Z"
+    },
+    "id": 98
+  },
+  {
+    "spaceId": "Qwen/Qwen3-Coder-WebDev",
+    "title": "Qwen3-Coder-WebDev",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 951
+    },
+    "metadata": {
+      "id": "Qwen/Qwen3-Coder-WebDev",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 951,
+      "_id": "687fd344c3fcaed0fe82fdce",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2025-07-22T18:07:00.000Z"
+    },
+    "id": 99
+  },
+  {
+    "spaceId": "Qwen/Qwen-Image",
+    "title": "Qwen-Image",
+    "author": "Qwen",
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "sdkType": "gradio",
+    "spaceType": "application",
+    "category": "other",
+    "thumbnail": null,
+    "likes": {
+      "count": 883
+    },
+    "metadata": {
+      "id": "Qwen/Qwen-Image",
+      "sdk": "gradio",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "likes": 883,
+      "_id": "688fe1ea06c08b2e5254c5f6",
+      "trendingScore": 8,
+      "private": false,
+      "createdAt": "2025-08-03T22:25:46.000Z"
+    },
+    "id": 100
+  }
+]
